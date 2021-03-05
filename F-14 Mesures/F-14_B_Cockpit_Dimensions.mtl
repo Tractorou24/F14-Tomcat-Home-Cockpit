@@ -1,0 +1,489 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 18.10.2018 06:58:58
+
+newmtl HB_F14_PILOT_COMPILED_01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_01.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_01.psd
+
+newmtl HB_F14_CPT_LVERTICAL_BASE
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_LVERTICAL_BASE.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_LVERTICAL_BASE.psd
+
+newmtl HB_F14_CPT_FRONT_LFRAME
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1961 0.1961 0.1961
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FRONT_LFRAME.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FRONT_LFRAME.psd
+
+newmtl HB_F14_CPT_RFRAME
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_RFRAME.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_RFRAME.psd
+
+newmtl HB_F14_CPT_FRONT_RFRAME
+	Ns 17.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.6600 0.6600 0.6600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FRONT_RFRAME.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FRONT_RFRAME.psd
+
+newmtl HB_F14_CPT_FRONT_06
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_06.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_06.psd
+
+newmtl HB_F14_CPT_GLARESHIELD
+	Ns 19.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.1400 0.1400 0.1400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GLARESHIELD.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GLARESHIELD.psd
+
+newmtl HB_F14_CPT_FLOOR_L
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FLOOR_L.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FLOOR_L.psd
+
+newmtl HB_F14_CPT_FLOOR_R
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FLOOR_R.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_FLOOR_R.psd
+
+newmtl HB_F14_CPT_R_UNDERBASE
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_R_UNDERBASE.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_R_UNDERBASE.psd
+
+newmtl HB_F14_CPT_BIN
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_BIN.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_BIN.psd
+
+newmtl HB_F14_CPT_R_FABRIC
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_R_FABRIC.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_R_FABRIC.psd
+
+newmtl HB_F14_CPT_SEATCUSHION
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEATCUSHION.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEATCUSHION.psd
+
+newmtl HB_F14_CPT_SEAT_EXTRAS
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.3600 0.3600 0.3600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEAT_EXTRAS.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEAT_EXTRAS.psd
+
+newmtl HB_F14_CPT_REARWALL_L
+	Ns 32.6421
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2500 0.2500 0.2500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_REARWALL_L.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_REARWALL_L.psd
+
+newmtl HB_F14_CPT_GRU7_01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GRU7_01.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GRU7_01.psd
+	map_bump G:\TEXTURES_2\EXPORT_STAGING\HB_F14_CPT_GRU7_01_Nrm.tga
+	bump G:\TEXTURES_2\EXPORT_STAGING\HB_F14_CPT_GRU7_01_Nrm.tga
+
+newmtl HB_F14_CPT_GRU7_02
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0392 0.0392 0.0392
+	Kd 0.0392 0.0392 0.0392
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GRU7_02.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GRU7_02.psd
+	map_bump G:\TEXTURES_2\EXPORT_STAGING\HB_F14_CPT_GRU7_02_Nrm.tga
+	bump G:\TEXTURES_2\EXPORT_STAGING\HB_F14_CPT_GRU7_02_Nrm.tga
+
+newmtl HB_F14_CPT_GRU7_03
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GRU7_03.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GRU7_03.psd
+	map_bump G:\TEXTURES_2\EXPORT_STAGING\HB_F14_CPT_GRU7_03_Nrm.tga
+	bump G:\TEXTURES_2\EXPORT_STAGING\HB_F14_CPT_GRU7_03_Nrm.tga
+
+newmtl HB_F14_CPT_REARWALL_R
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_REARWALL_R.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_REARWALL_R.psd
+
+newmtl HB_F14_CPT_SEAT_RIGHT
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEAT_RIGHT.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEAT_RIGHT.psd
+
+newmtl HB_F14_CPT_GLARESHIELD_FRONT
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GLARESHIELD_FRONT.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GLARESHIELD_FRONT.psd
+
+newmtl HB_F14_CPT_GLARESHIELD_REAR
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.6750 0.6750 0.6750
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GLARESHIELD_REAR.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_GLARESHIELD_REAR.psd
+
+newmtl HB_F14_CPT_FRONT_04
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_04.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_04.psd
+
+newmtl HB_F14_CPT_FRONT_03
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_03.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\COMPILED\HB_F14_CPT_FRONT_03.psd
+
+newmtl HB_F14_CPT_STICK
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.6118 0.7765
+	Kd 0.5882 0.6118 0.7765
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_STICK.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_STICK.psd
+
+newmtl HB_F14_CPT_BOOT
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2314 0.2314 0.2314
+	Kd 0.2314 0.2314 0.2314
+	Ks 0.1350 0.1350 0.1350
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_BOOT.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_BOOT.psd
+
+newmtl HB_F14_CPT_STICKTUBE
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_STICKTUBE.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_STICKTUBE.psd
+
+newmtl HB_F14_CPT_CANOPY_F_R
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_CANOPY_F_R.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_CANOPY_F_R.psd
+	map_bump I:\Repositories\F-14ART\F14Art\F-14\INT\Canopy\Textures\HB_F14_CPT_CANOPY_F_R_Nrm.psd
+	bump I:\Repositories\F-14ART\F14Art\F-14\INT\Canopy\Textures\HB_F14_CPT_CANOPY_F_R_Nrm.psd
+
+newmtl HB_F14_CPT_CANOPY_F_L
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_CANOPY_F_L.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_CANOPY_F_L.psd
+	map_bump Map__1186_Normal_Bump.tga
+
+newmtl HB_F14_CPT_RIO_FABRIC_DCS2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1529 0.1529 0.1529
+	Kd 0.1529 0.1529 0.1529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump I:\Repositories\F-14ART\F14Art\F-14\INT\Front_FinalPush_Items\Staging\DCS2\HB_F14_CPT_RIO_FABRIC2_Nrm.bmp
+	bump I:\Repositories\F-14ART\F14Art\F-14\INT\Front_FinalPush_Items\Staging\DCS2\HB_F14_CPT_RIO_FABRIC2_Nrm.bmp
+
+newmtl HB_F14_SeatFabric_01
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7373 0.7373 0.7373
+	Kd 0.7373 0.7373 0.7373
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_SeatFabric_01.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_SeatFabric_01.psd
+
+newmtl HB_F14_SeatFabric_02
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_SeatFabric_02.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_SeatFabric_02.psd
+
+newmtl HB_F14_CPT_SEATCOVER
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0588 0.0588 0.0588
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEATCOVER.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_SEATCOVER.psd
+	map_bump G:\HB_F14_CPT_SEATCOVER_Nrm.bmp
+	bump G:\HB_F14_CPT_SEATCOVER_Nrm.bmp
+
+newmtl HB_F14_INT_ALR67
+	Ns 13.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 1.0260 1.0260 1.0260
+	Ke 0.0000 0.0000 0.0000
+	map_Ka I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_ALR67.psd
+	map_Kd I:\Repositories\F-14_COCKPIT\Textures\HB_F14_CPT_ALR67.psd
