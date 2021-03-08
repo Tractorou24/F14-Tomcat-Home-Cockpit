@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.2677202in"
+   height="15in"
+   viewBox="0 0 210.0001 381.00001"
+   version="1.1"
+   id="svg1310"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Oxygen Panel - dmatthews.svg">
+  <defs
+     id="defs1304" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="731.35294"
+     inkscape:cy="1015.6847"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="2551"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     units="in" />
+  <metadata
+     id="metadata1307">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g894"
+       transform="translate(4.7625,-105.56875)">
+      <path
+         id="rect7320"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 30.97253,109.13313 v 7.72718 4.77283 4.77284 c 0,4.28091 -3.44628,7.72718 -7.72718,7.72718 h -2.27273 -2.27273 -7.72717 v 114.97489 h 7.60263 2.27273 2.27273 c 4.2809,0 7.72718,3.44627 7.72718,7.72717 v 4.77284 4.77284 7.60263 h 131.44986 v -7.60263 -4.77284 -4.77284 c 0,-4.2809 3.44627,-7.72717 7.72717,-7.72717 h 2.27273 2.27273 7.60264 V 134.00862 h -7.60264 -2.27273 -2.27273 c -4.2809,0 -7.72717,-3.44627 -7.72717,-7.72718 v -4.77284 -4.77283 -7.60264 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+         x="49.857243"
+         y="143.27014"
+         id="text1898"><tspan
+           sodipodi:role="line"
+           id="tspan1896"
+           x="49.857243"
+           y="143.27014"
+           style="font-size:4.93889px;fill:#00ff00;stroke-width:0.264583">VENT AIRFLOW</tspan></text>
+      <path
+         sodipodi:type="star"
+         style="fill:#00ff00;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1900"
+         sodipodi:sides="3"
+         sodipodi:cx="72.89875"
+         sodipodi:cy="149.31772"
+         sodipodi:r1="4.7624998"
+         sodipodi:r2="2.3812499"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="1.190624"
+         d="m 72.89875,154.08022 -2.062223,-3.57188 -2.062223,-3.57187 4.124446,0 4.124446,0 -2.062223,3.57187 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+         x="36.386105"
+         y="155.40518"
+         id="text1904"><tspan
+           sodipodi:role="line"
+           id="tspan1902"
+           x="36.386105"
+           y="155.40518"
+           style="font-size:4.23333px;fill:#00ff00;stroke-width:0.264583">HIGH</tspan></text>
+      <rect
+         style="fill:#ff0000;stroke-width:0.106749;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1894"
+         width="44.450001"
+         height="12.7"
+         x="50.673748"
+         y="164.782" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+         x="98.472794"
+         y="155.39963"
+         id="text1904-3"><tspan
+           sodipodi:role="line"
+           id="tspan1902-7"
+           x="98.472794"
+           y="155.39963"
+           style="font-size:4.23333px;fill:#00ff00;stroke-width:0.264583">LOW</tspan></text>
+      <circle
+         style="fill:#ff0000;stroke-width:0.210559;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1945"
+         cx="131.35161"
+         cy="231.86777"
+         r="6.3499999" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+         x="119.93401"
+         y="215.81383"
+         id="text1898-0"><tspan
+           sodipodi:role="line"
+           id="tspan1896-7"
+           x="119.93401"
+           y="215.81383"
+           style="font-size:4.93889px;fill:#00ff00;stroke-width:0.264583">OXYGEN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+         x="109.49434"
+         y="227.63445"
+         id="text1973"><tspan
+           id="tspan1971"
+           x="109.49434"
+           y="227.63445"
+           style="font-size:4.23333px;fill:#00ff00;stroke-width:0.264583"
+           sodipodi:role="line">ON</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+         x="108.5797"
+         y="242.44978"
+         id="text1973-5"><tspan
+           id="tspan1971-4"
+           x="108.5797"
+           y="242.44978"
+           style="font-size:4.23333px;fill:#00ff00;stroke-width:0.264583"
+           sodipodi:role="line">OFF</tspan></text>
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093"
+         cx="51.958858"
+         cy="122.33028"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-4"
+         cx="51.958858"
+         cy="256.20944"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-5"
+         cx="147.94972"
+         cy="187.10016"
+         r="3.175" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';fill:#00ff00;stroke-width:0.264583"
+         x="35.080395"
+         y="235.16068"
+         id="text887"><tspan
+           sodipodi:role="line"
+           id="tspan885"
+           x="35.080395"
+           y="235.16068"
+           style="fill:#00ff00;stroke-width:0.264583">northrop</tspan><tspan
+           sodipodi:role="line"
+           x="35.080395"
+           y="239.57039"
+           style="fill:#00ff00;stroke-width:0.264583"
+           id="tspan889">  grumman</tspan></text>
+      <path
+         id="rect891"
+         style="fill:#00ff00;stroke-width:0.18081"
+         d="m 58.09914,231.63059 v 1.05834 h 7.9375 v 6.8156 h 1.05834 v -6.8156 -1.05834 h -1.05834 z" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.210559;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1945-0"
+         cx="131.35161"
+         cy="231.86777"
+         r="6.3499999" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-3"
+         cx="51.958862"
+         cy="122.33027"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-4-2"
+         cx="51.958862"
+         cy="256.20944"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-5-6"
+         cx="147.94972"
+         cy="187.10016"
+         r="3.175" />
+    </g>
+    <g
+       id="g906"
+       transform="translate(-227.27708,84.402083)">
+      <rect
+         style="fill:#ff0000;stroke-width:0.144351;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1894-4-3"
+         width="50.799999"
+         height="20.32"
+         x="280.1925"
+         y="162.94908" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.249629;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2124-7-7"
+         width="171.20038"
+         height="164.85037"
+         x="243.54147"
+         y="110.98523" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-2-9-1"
+         cx="253.54158"
+         cy="263.58542"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-2-1-5-9"
+         cx="-404.99176"
+         cy="263.58542"
+         r="3.175"
+         transform="scale(-1,1)" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-2-1-4-5-7"
+         cx="253.5416"
+         cy="-123.4854"
+         r="3.175"
+         transform="scale(1,-1)" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-2-1-4-9-8-4"
+         cx="-404.99176"
+         cy="-123.4854"
+         r="3.175"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.210559;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1945-0-0"
+         cx="364.04538"
+         cy="233.84485"
+         r="6.3499999" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-3-8"
+         cx="284.65262"
+         cy="124.30735"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-4-2-2"
+         cx="284.65262"
+         cy="258.18652"
+         r="3.175" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2093-5-6-2"
+         cx="380.64349"
+         cy="189.07724"
+         r="3.175" />
+    </g>
+  </g>
+</svg>
