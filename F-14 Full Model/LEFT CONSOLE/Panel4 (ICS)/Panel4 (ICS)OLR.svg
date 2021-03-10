@@ -31,16 +31,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0685606"
-     inkscape:cx="272.2769"
-     inkscape:cy="449.57378"
+     inkscape:cx="451.16123"
+     inkscape:cy="454.76726"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="2131"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      units="in">
     <inkscape:grid
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,12 +83,6 @@
        d="m -105.83333,124.35417 v 0"
        id="path936"
        sodipodi:nodetypes="cc" />
-    <circle
-       style="fill:#ff0000;stroke-width:0.113411"
-       id="path8"
-       cx="131.02762"
-       cy="143.6342"
-       r="3.175" />
     <circle
        style="fill:#ff0000;stroke-width:0.272186"
        id="path8-2"
@@ -267,29 +261,11 @@
        x="109.22596"
        y="98.125885" />
     <circle
-       style="fill:#ff0000;stroke-width:0.113411"
-       id="path8-04"
-       cx="88.694275"
-       cy="143.6342"
-       r="3.175" />
-    <circle
-       style="fill:#ff0000;stroke-width:0.113411"
-       id="path8-1"
-       cx="65.312248"
-       cy="90.982132"
-       r="3.175" />
-    <circle
-       style="fill:#ff0000;stroke-width:0.113411"
-       id="path8-1-5"
-       cx="153.15411"
-       cy="90.982132"
-       r="3.175" />
-    <circle
-       style="fill:#ff0000;stroke-width:0.172385"
+       style="fill:#ff0000;stroke-width:0.1786"
        id="path8-04-7"
-       cx="69.144905"
-       cy="120.56355"
-       r="4.8260002" />
+       cx="69.318909"
+       cy="120.73755"
+       r="5" />
     <rect
        style="fill:#00ff00;stroke-width:0.151795"
        id="rect188-5"
@@ -306,89 +282,6 @@
        x="-161.84065"
        y="-16.31884"
        transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.249386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2248-4-2-5"
-       width="152.15062"
-       height="75.950409"
-       x="31.75"
-       y="175.40376" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-1-1-6-3-8"
-       cx="173.91698"
-       cy="187.86282"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-1-1-6-6-2"
-       cx="41.733639"
-       cy="187.86282"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-1-1-6-1-6"
-       cx="41.733639"
-       cy="238.89511"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-1-1-6-8"
-       cx="173.91698"
-       cy="238.89511"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-6"
-       cx="129.08209"
-       cy="237.23805"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.271517"
-       id="path8-2-9"
-       cx="107.57069"
-       cy="214.17966"
-       rx="7.6075306"
-       ry="7.5950413" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.226264"
-       id="path8-2-2-2"
-       cx="151.77235"
-       cy="214.17966"
-       rx="6.3396091"
-       ry="6.3292007" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-04-8"
-       cx="86.818001"
-       cy="237.23805"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-1-7"
-       cx="63.474251"
-       cy="184.75842"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <ellipse
-       style="fill:#ff0000;stroke-width:0.113132"
-       id="path8-1-5-8"
-       cx="151.17238"
-       cy="184.75842"
-       rx="3.1698046"
-       ry="3.1646004" />
-    <circle
-       style="fill:#ff0000;stroke-width:0.172386"
-       id="path8-04-7-4"
-       cx="67.308525"
-       cy="214.25876"
-       r="4.8260002" />
     <path
        id="rect2769"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986782"
