@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="420mm"
+   viewBox="0 0 210 420"
+   version="1.1"
+   id="svg324"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="DISPLAYOLR.svg">
+  <defs
+     id="defs318">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2122" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2116"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 271.49999 : 1"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="210 : 271.49999 : 1"
+       inkscape:persp3d-origin="105 : 221.99999 : 1"
+       id="perspective1151" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3004"
+       x="-2.5267499e-05"
+       width="1.0000505"
+       y="-3.6915987e-05"
+       height="1.0000738">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.5182588e-05"
+         id="feGaussianBlur3006" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-42.864741"
+     inkscape:cy="552.2133"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2131"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata321">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect868"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.45148"
+       d="M 40.429688 352.86133 L 40.429688 396.75 L 40.363281 396.75 A 19.113518 23.696828 0 0 1 40.332031 398.52539 A 19.113518 23.696828 0 0 1 21.056641 420.87305 L 21.056641 420.89062 L 7.9628906 420.76758 L 4.6035156 420.77539 L 4.6054688 420.73633 L 1.8867188 420.71094 L 1.8867188 721.35156 L 43.359375 721.35156 A 21.958289 24.566252 0 0 1 43.552734 721.34961 A 21.958289 24.566252 0 0 1 43.738281 721.35156 L 45.177734 721.35156 L 45.177734 721.41797 A 21.958289 24.566252 0 0 1 65.511719 745.91602 A 21.958289 24.566252 0 0 1 45.177734 770.41406 L 45.177734 770.48438 L 1.8867188 770.48438 L 1.8867188 1077.2617 L 4.6054688 1077.2344 L 4.6035156 1077.1953 L 7.9628906 1077.2031 L 21.056641 1077.0801 L 21.056641 1077.0996 A 19.113518 23.696828 0 0 1 40.332031 1099.4453 A 19.113518 23.696828 0 0 1 40.363281 1101.2207 L 40.429688 1101.2207 L 40.429688 1145.1094 L 711.6543 1145.1094 L 701.33008 1107.084 L 701.39453 1107.0605 A 29.167188 19.113518 74.809898 0 1 700.85156 1104.9434 A 29.167188 19.113518 74.809898 0 1 712.24609 1073.3496 L 712.23828 1073.332 L 724.91406 1070.0488 L 728.1543 1069.1621 L 728.16602 1069.2109 L 729.95508 1068.75 L 616.77734 645.23047 L 542.65625 645.23047 L 542.65625 645.10547 A 37.709107 44.341693 0 0 1 507.73633 600.88867 A 37.709107 44.341693 0 0 1 542.65625 556.66797 L 542.65625 556.54883 L 545.12891 556.54883 A 37.709107 44.341693 0 0 1 545.44531 556.54492 L 545.44727 556.54492 A 37.709107 44.341693 0 0 1 545.77734 556.54883 L 593.07812 556.54883 L 557.54297 423.57227 L 555.15039 424.20117 L 555.16602 424.24805 L 551.9043 425.05469 L 539.23633 428.375 L 539.23242 428.35156 A 29.167188 19.113518 75.983778 0 1 513.86914 406.33398 A 29.167188 19.113518 75.983778 0 1 513.31055 404.2207 L 513.24609 404.23633 L 500.42188 352.86328 L 40.429688 352.86133 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect326"
+       style="fill:#000000;stroke:#000000;stroke-width:0.285985;stroke-opacity:1;fill-opacity:1"
+       d="M 11.470613,0.30797276 V 17.728094 h -0.01912 a 5.4539514,9.4046777 0 0 1 -0.0083,0.70435 5.4539514,9.4046777 0 0 1 -5.4999196,8.868709 v 0.0067 l -3.7362045,-0.04909 -0.9585979,0.0026 v -0.0155 L 0.47387243,27.235003 V 83.025809 H 12.087113 v 0.0171 a 6.2697812,4.9581461 0 0 1 0.469738,0.007 6.2697812,4.9581461 0 0 1 5.912301,5.00018 h 0.0047 l -0.03307,3.396672 0.0021,0.871254 -0.01033,-5.1e-4 -0.0072,0.704347 H 126.80462 l -0.002,-0.24133 -0.01,5.1e-4 0.004,-0.868154 -0.0248,-3.382722 0.004,5.2e-4 a 5.56799,4.9376851 0.51551934 0 1 5.26531,-4.95678 5.56799,4.9376851 0.51551934 0 1 0.41755,-0.006 v -0.0171 l 7.429,0.0315 -17.15968,-64.529279 -0.59686,0.165365 0.004,0.01292 -1.01131,0.26665 -3.92793,1.08934 -10e-4,-0.0057 a 8.0113943,5.9497425 75.092448 0 1 -7.74165,-5.756754 8.0113943,5.9497425 75.092448 0 1 -0.16329,-0.577741 l -0.0202,0.0052 -3.71243,-13.94436424 z" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.39923;stroke-opacity:1"
+       id="rect1222"
+       width="30"
+       height="61.702114"
+       x="39.382412"
+       y="9.6414318" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.310543;stroke-opacity:1"
+       id="rect1222-4"
+       width="40"
+       height="28"
+       x="75.756493"
+       y="33.145294" />
+    <path
+       id="rect336"
+       style="fill:#ffff00;fill-opacity:1;stroke-width:0.205797"
+       d="m 37.040161,17.197629 h -1.425779 l 1.425779,1.626445 z m 0,37.00004 H 34.98509 l 2.055071,2.344203 z M 34.683915,20.197596 32.054232,17.197629 h -2.839837 l 2.630072,2.999967 z m -0.629298,37.000033 -2.629678,-2.99996 h -2.471876 l 2.629687,2.99996 z M 28.283921,20.197596 25.654242,17.197629 h -3.008591 l 2.629678,2.999967 z m -0.261323,37.000033 -2.629687,-2.99996 h -3.016014 l 2.629687,2.99996 z M 21.71557,20.197596 19.085891,17.197629 h -2.840237 l 2.629687,2.999967 z m -0.269526,37.000033 -2.629687,-2.99996 h -2.348829 l 2.629686,2.99996 z m -5.908983,0 -2.496875,-2.848591 v 0.84813 2.000461 z M 15.440181,20.339677 13.04018,17.601921 v 2.440405 l 2.400001,2.737756 z m 0,6.501888 L 13.04018,24.1038 v 3.781697 l 2.400001,2.737766 z m 0,7.84269 -2.400001,-2.737765 v 3.187949 l 2.400001,2.737766 z m 0,7.204505 -0.01799,0.02438 -2.382031,-2.717253 v 4.383742 l 2.399999,2.737765 z m 0,8.489638 -2.400001,-2.737741 v 2.646929 l 2.400001,2.738231 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264379;"
+       x="17.471556"
+       y="26.061329"
+       id="text79-8-78"
+       transform="scale(0.99922789,1.0007727)"><tspan
+         sodipodi:role="line"
+         id="tspan77-7-9"
+         x="17.471556"
+         y="26.061329"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;">EMERG</tspan><tspan
+         sodipodi:role="line"
+         x="17.471556"
+         y="31.348917"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;"
+         id="tspan2056">DOWN</tspan><tspan
+         sodipodi:role="line"
+         x="17.471556"
+         y="36.636505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;"
+         id="tspan2060">PULL</tspan><tspan
+         sodipodi:role="line"
+         x="17.471556"
+         y="41.924091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;"
+         id="tspan2062">TURN</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.331275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 20.062248,50.996115 c 2.220392,-2.534175 4.441198,-5.068822 6.318579,-5.316542 1.87738,-0.247721 3.409932,1.790656 4.341923,3.085957 0.931991,1.295302 1.262489,1.846131 1.593218,2.397346"
+       id="path2114"
+       inkscape:path-effect="#path-effect2116"
+       inkscape:original-d="m 20.062248,50.996115 c 2.220673,-2.533929 4.441479,-5.068576 6.662424,-7.603948 1.533577,2.039654 3.066129,4.07803 4.599108,6.117063 0.331039,0.551555 0.992188,1.653646 0.992188,1.653646"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264379;"
+       x="31.271446"
+       y="13.091641"
+       id="text79-8"
+       transform="scale(0.99922789,1.0007727)"><tspan
+         sodipodi:role="line"
+         id="tspan77-7"
+         x="31.271446"
+         y="13.091641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;">UP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264379;"
+       x="31.224213"
+       y="71.134476"
+       id="text79-5"
+       transform="scale(0.99922789,1.0007727)"><tspan
+         sodipodi:role="line"
+         id="tspan77-0"
+         x="31.224213"
+         y="71.134476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;">DN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264379;"
+       x="90.935913"
+       y="28.657314"
+       id="text79-8-0"
+       transform="scale(0.99922789,1.0007727)"><tspan
+         sodipodi:role="line"
+         id="tspan77-7-3"
+         x="90.935913"
+         y="28.657314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;">GUN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#fdfffd;fill-opacity:1;stroke:none;stroke-width:0.264379;"
+       x="64.140259"
+       y="6.4614391"
+       id="text79-8-0-8"
+       transform="scale(0.99922789,1.0007727)"><tspan
+         sodipodi:role="line"
+         id="tspan77-7-3-2"
+         x="64.140259"
+         y="6.4614391"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdfffd;stroke-width:0.264379;fill-opacity:1;">HOOK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264379;"
+       x="73.895378"
+       y="74.178169"
+       id="text79-8-0-9"
+       transform="scale(0.99922789,1.0007727)"><tspan
+         sodipodi:role="line"
+         id="tspan77-7-3-6"
+         x="73.895378"
+         y="74.178169"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264379;fill-opacity:1;">+</tspan></text>
+    <path
+       id="rect1017"
+       style="fill:#000000;stroke:#000000;stroke-width:1.237;stroke-opacity:1;fill-opacity:1"
+       d="M 40.429688 1145.1094 L 40.429688 1188.0352 L 40.357422 1188.0352 A 20.613212 23.696832 0 0 1 40.326172 1189.8105 A 20.613212 23.696832 0 0 1 19.537109 1212.1562 L 19.537109 1212.1719 L 5.4160156 1212.0469 L 1.7929688 1212.0547 L 1.7949219 1212.0156 L -0.375 1211.9961 L -0.375 1419.627 L 2.5546875 1419.5957 L 2.5527344 1419.5527 L 6.1777344 1419.5605 L 20.298828 1419.4219 L 20.298828 1419.4414 A 20.613307 26.330112 0 0 1 41.085938 1444.2715 A 20.613307 26.330112 0 0 1 41.117188 1446.2441 L 41.189453 1446.2441 L 41.189453 1475.6602 L 711.6543 1163.4688 L 711.6543 1145.1094 L 40.429688 1145.1094 z "
+       transform="scale(0.26458333)" />
+    <g
+       id="g1498-0"
+       transform="matrix(-0.96829958,0,0,1.0833035,80.56827,46.193803)" />
+    <ellipse
+       class="fil0 str0"
+       cx="45.094082"
+       cy="350.88034"
+       id="circle96-5"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.0628632;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="3.1435642"
+       ry="3.1427603" />
+    <text
+       x="33.942326"
+       y="322.89554"
+       class="fil1 fnt0"
+       id="text98-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30691px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987207)">ELEV LEAD</text>
+    <text
+       x="62.849594"
+       y="333.06265"
+       class="fil1 fnt0"
+       id="text98-5-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30691px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987207)">NILS</text>
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.267174"
+       id="rect2296"
+       width="24.732792"
+       height="9.7303019"
+       x="33.256855"
+       y="326.50272" />
+    <g
+       id="g1498"
+       transform="matrix(1.1890985,0,0,1.0833035,99.560949,32.605096)"
+       style="fill:#ff00eb;fill-opacity:1">
+      <path
+         id="path1468-5"
+         style="fill:#ff00eb;fill-opacity:1;stroke:none;stroke-width:0.196727;stroke-opacity:1"
+         d="m 71.305205,133.30297 a 5.9999998,5.9999998 0 0 0 -0.0506,5.2e-4 h -0.39326 v 0.016 a 5.9999998,5.9999998 0 0 0 -5.55625,5.98361 5.9999998,5.9999998 0 0 0 5.55625,5.9831 v 0.0171 h 12.0003 v -11.99978 h -11.50369 a 5.9999998,5.9999998 0 0 0 -0.0527,-5.2e-4 z" />
+    </g>
+    <g
+       id="g2671"
+       transform="translate(59.663542,-16.536459)">
+      <path
+         id="path103-1-8-6"
+         style="fill:#ff00eb;fill-opacity:1;stroke:none;stroke-width:0.18953;stroke-opacity:1"
+         d="M 172.70393,203.59864 H 159.8001 v -0.0114 a 6.9665517,3.2227148 0 0 1 -0.52202,-0.005 6.9665517,3.2227148 0 0 1 -6.56951,-3.24999 h -0.005 l 0.0366,-2.20776 -0.002,-0.5665 0.0116,2.8e-4 0.008,-0.45965 h 12.90382 v 10e-4 h 7.04233 z" />
+      <path
+         id="path103-1-8"
+         style="fill:#ff00eb;fill-opacity:1;stroke:none;stroke-width:0.189532;stroke-opacity:1"
+         d="m 172.70388,190.59849 h -12.90376 v 0.0114 a 6.9665089,3.2227693 0 0 0 -0.522,0.005 6.9665089,3.2227693 0 0 0 -6.56949,3.25005 h -0.005 l 0.0366,2.20778 -0.002,0.56652 0.0114,-2.8e-4 0.008,0.45966 h 12.90396 v -0.001 h 7.04229 z"
+         inkscape:transform-center-x="38.364583"
+         inkscape:transform-center-y="-9.6105105" />
+    </g>
+    <circle
+       class="fil0 str0"
+       cx="46.613998"
+       cy="127.27802"
+       id="circle72"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492" />
+    <ellipse
+       class="fil0 str0"
+       cx="161.05646"
+       cy="271.11926"
+       id="circle96"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.114285;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="5.7150002"
+       ry="5.7135382" />
+    <text
+       x="147.76016"
+       y="252.99736"
+       class="fil1 fnt0"
+       id="text98"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30691px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">PITCH LAD</text>
+    <g
+       id="g2139"
+       transform="matrix(1,0,0,0.99974419,96.149551,-58.186856)">
+      <text
+         x="-66.974205"
+         y="301.57733"
+         class="fil1 fnt2"
+         id="text104"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ON</text>
+      <text
+         x="-66.974205"
+         y="310.82379"
+         class="fil1 fnt2"
+         id="text106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">OFF</text>
+    </g>
+    <g
+       id="g1990"
+       transform="matrix(1,0,0,0.99974419,96.149551,-56.352455)">
+      <text
+         x="-32.697147"
+         y="299.72305"
+         class="fil1 fnt2"
+         id="text108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ON</text>
+      <text
+         x="-32.697147"
+         y="308.96951"
+         class="fil1 fnt2"
+         id="text110"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">OFF</text>
+    </g>
+    <g
+       id="g1994"
+       transform="matrix(1,0,0,0.99974419,96.149551,-56.37345)">
+      <text
+         x="1.0064458"
+         y="299.72305"
+         class="fil1 fnt2"
+         id="text112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ON</text>
+      <text
+         x="1.0064458"
+         y="308.96951"
+         class="fil1 fnt2"
+         id="text114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">OFF</text>
+    </g>
+    <ellipse
+       class="fil0 str0"
+       cx="47.213692"
+       cy="246.17258"
+       id="circle90"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.2747035"
+       ry="6.2730989" />
+    <ellipse
+       class="fil0 str0"
+       cx="80.277992"
+       cy="246.15317"
+       id="circle92"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.2747035"
+       ry="6.2730989" />
+    <ellipse
+       class="fil0 str0"
+       cx="116.09499"
+       cy="246.13219"
+       id="circle94"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.2747035"
+       ry="6.2730989" />
+    <text
+       x="44.319672"
+       y="235.00912"
+       class="fil1 fnt3"
+       id="text116"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52733px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">VDI</text>
+    <text
+       x="77.657593"
+       y="234.81445"
+       class="fil1 fnt4"
+       id="text118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52733px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">HUD</text>
+    <text
+       x="104.30716"
+       y="234.96642"
+       class="fil1 fnt5"
+       id="text120"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52733px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';word-spacing:-2.64549px;clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">HSD / ECMD</text>
+    <text
+       x="18.397495"
+       y="149.40404"
+       class="fil1 fnt8"
+       id="text144"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';stroke-width:0.0380951"
+         id="tspan1905">CRUISE</tspan></text>
+    <text
+       x="1.950455"
+       y="121.80355"
+       class="fil1 fnt9"
+       id="text146"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;filter:url(#filter3004);image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.0001279,0,0,0.99987211,22.225008,6.879167)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';stroke-width:0.0380951"
+         id="tspan1903">TO</tspan></text>
+    <text
+       x="22.256935"
+       y="168.63075"
+       class="fil1 fnt10"
+       id="text148"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';stroke-width:0.0380951"
+         id="tspan1907">A/A</tspan></text>
+    <text
+       x="22.625006"
+       y="187.81952"
+       class="fil1 fnt11"
+       id="text150"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';stroke-width:0.0380951"
+         id="tspan1909">A/G</tspan></text>
+    <text
+       x="23.382662"
+       y="206.53836"
+       class="fil1 fnt12"
+       id="text152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';stroke-width:0.0380951"
+         id="tspan1911">LDG</tspan></text>
+    <text
+       x="30.388489"
+       y="273.06195"
+       class="fil1 fnt0"
+       id="text100"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30691px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">TACAN</text>
+    <text
+       x="53.183853"
+       y="273.39337"
+       class="fil1 fnt1"
+       id="text102"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6099px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">DEST</text>
+    <text
+       x="70.310913"
+       y="273.39337"
+       class="fil1 fnt1"
+       id="text172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6099px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">AWL/PCD</text>
+    <text
+       x="97.243286"
+       y="273.39337"
+       class="fil1 fnt1"
+       id="text174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6099px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">VEC</text>
+    <text
+       x="117.83996"
+       y="273.39337"
+       class="fil1 fnt1"
+       id="text176"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6099px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">MAN</text>
+    <text
+       x="67.881287"
+       y="263.49573"
+       class="fil1 fnt15"
+       id="text180"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';word-spacing:-2.64549px;clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">STEER CMD</text>
+    <ellipse
+       class="fil0 str0"
+       cx="80.278343"
+       cy="204.16112"
+       id="circle68"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.2747035"
+       ry="6.2730989" />
+    <ellipse
+       class="fil0 str0"
+       cx="116.09534"
+       cy="204.16112"
+       id="circle70"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.2747035"
+       ry="6.2730989" />
+    <g
+       id="g1944"
+       transform="matrix(1,0,0,0.99974419,87.903761,-57.879155)">
+      <text
+         x="4.527245"
+         y="259.246"
+         class="fil1 fnt2"
+         id="text122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ORIDE</text>
+      <text
+         x="6.1269779"
+         y="268.49249"
+         class="fil1 fnt2"
+         id="text124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">OFF</text>
+    </g>
+    <g
+       id="g1999"
+       transform="matrix(1,0,0,0.99974419,92.445381,-58.737855)">
+      <text
+         x="-33.782856"
+         y="255.48305"
+         class="fil1 fnt2"
+         id="text126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">NAV</text>
+      <text
+         x="-33.135555"
+         y="264.73065"
+         class="fil1 fnt2"
+         id="text128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">TID</text>
+      <text
+         x="-34.02467"
+         y="273.97577"
+         class="fil1 fnt2"
+         id="text130"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ECM</text>
+    </g>
+    <g
+       id="g2384"
+       transform="matrix(1,0,0,0.99974419,92.445381,-58.186826)">
+      <text
+         x="-17.861097"
+         y="247.40984"
+         class="fil1 fnt6"
+         id="text132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75209px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">MODE</text>
+      <text
+         x="19.803463"
+         y="247.49825"
+         class="fil1 fnt7"
+         id="text134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4356px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ECM</text>
+    </g>
+    <text
+       x="92.552383"
+       y="181.53099"
+       class="fil1 fnt16"
+       id="text184"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">HSD</text>
+    <ellipse
+       class="fil0 str0"
+       cx="80.278343"
+       cy="164.40785"
+       id="circle64"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.2747035"
+       ry="6.2730989" />
+    <ellipse
+       class="fil0 str0"
+       cx="116.09534"
+       cy="164.40785"
+       id="circle66"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.274704"
+       ry="6.2730985" />
+    <g
+       id="g1936"
+       transform="matrix(1,0,0,0.99974419,92.445381,-59.116208)">
+      <text
+         x="-32.738823"
+         y="220.72108"
+         class="fil1 fnt2"
+         id="text136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">TV</text>
+      <text
+         x="-35.169743"
+         y="229.96788"
+         class="fil1 fnt2"
+         id="text138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">NORM</text>
+    </g>
+    <g
+       id="g1940"
+       transform="matrix(1,0,0,0.99974419,87.917781,-59.118737)">
+      <text
+         x="6.7614827"
+         y="220.72108"
+         class="fil1 fnt2"
+         id="text140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ILS</text>
+      <text
+         x="6.2563038"
+         y="229.96721"
+         class="fil1 fnt2"
+         id="text142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ACL</text>
+    </g>
+    <text
+       x="93.784805"
+       y="144.44577"
+       class="fil1 fnt14"
+       id="text164"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">VDI</text>
+    <g
+       id="g2422"
+       transform="matrix(1,0,0,0.99974419,92.445381,-58.186826)">
+      <text
+         x="-17.861097"
+         y="211.29358"
+         class="fil1 fnt6"
+         id="text196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75209px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">MODE</text>
+      <text
+         x="19.222033"
+         y="211.38199"
+         class="fil1 fnt7"
+         id="text198"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4356px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">AWL</text>
+    </g>
+    <ellipse
+       class="fil0 str0"
+       cx="80.278343"
+       cy="127.32401"
+       id="circle60"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.2747035"
+       ry="6.2730989" />
+    <ellipse
+       class="fil0 str0"
+       cx="116.09534"
+       cy="127.32401"
+       id="circle62"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.150573;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       rx="6.274704"
+       ry="6.2730985" />
+    <text
+       x="59.460403"
+       y="124.48042"
+       class="fil1 fnt2"
+       id="text156"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52733px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">ON</text>
+    <text
+       x="58.721603"
+       y="133.72601"
+       class="fil1 fnt2"
+       id="text158"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52733px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">OFF</text>
+    <g
+       id="g1919"
+       transform="matrix(1,0,0,0.99974419,87.917781,-58.346835)">
+      <text
+         x="6.7614827"
+         y="182.85541"
+         class="fil1 fnt2"
+         id="text160"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ILS</text>
+      <text
+         x="6.2563038"
+         y="192.1019"
+         class="fil1 fnt2"
+         id="text162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">ACL</text>
+    </g>
+    <g
+       id="g2437"
+       transform="matrix(1,0,0,0.99974419,92.445381,-58.186826)">
+      <text
+         x="-24.956347"
+         y="173.96982"
+         class="fil1 fnt6"
+         id="text200"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75209px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">DECLUTTER</text>
+      <text
+         x="19.222033"
+         y="174.05823"
+         class="fil1 fnt7"
+         id="text202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4356px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0381;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">AWL</text>
+    </g>
+    <text
+       x="92.552383"
+       y="106.89425"
+       class="fil1 fnt17"
+       id="text204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">HUD</text>
+    <text
+       x="61.271938"
+       y="100.47426"
+       class="fil1 fnt18"
+       id="text210"
+       style="font-weight:normal;font-size:4.93826px;font-family:Arial;clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93826px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';stroke-width:0.0380951"
+         id="tspan1899">DISPLAYS</tspan></text>
+    <text
+       x="177.57198"
+       y="268.12344"
+       class="fil1 fnt19"
+       id="text214"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44837px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">BRT</text>
+    <path
+       class="fil2 str1"
+       d="m 173.42338,262.45024 v 0 l -2.63881,-0.76141 1.11252,-1.52132 z m 0,0 m -1.31941,-0.38051 m -0.76314,-1.14155 m 1.3194,0.38051"
+       id="path216"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;stroke:#373435;stroke-width:0.26438;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <text
+       x="72.901474"
+       y="226.5193"
+       class="fil1 fnt15"
+       id="text218"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23279px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)">POWER</text>
+    <path
+       id="rect201-0"
+       style="fill:#ffffff;stroke-width:0.192668"
+       d="m 119.93208,223.559 -0.0232,0.047 H 91.387101 v 1.26988 h 28.717629 l 1.33273,1.25489 0.51263,-1.05134 -1.56321,-1.47137 v -0.002 h -0.002 l -0.0496,-0.047 z m -72.635359,0.047 v 0.008 l -1.5565,1.46516 0.51263,1.05134 1.33274,-1.25489 h 24.22229 v -1.26988 z" />
+    <path
+       id="rect201"
+       style="fill:#ffffff;stroke-width:0.145225"
+       d="m 76.664951,178.6002 v 0.17204 l -1.29243,1.42177 0.43874,1.05135 1.20147,-1.32258 h 14.6389 v -1.32258 h -14.58309 -0.24753 z m 26.099179,0 v 1.32258 h 15.42283 l 1.19528,1.31587 0.43873,-1.05135 -1.44229,-1.5871 h -0.18603 -0.0703 z" />
+    <path
+       id="rect201-7"
+       style="fill:#ffffff;stroke-width:0.145225"
+       d="m 76.664951,141.51765 v 0.17204 l -1.29243,1.42177 0.43874,1.05134 1.20147,-1.32257 h 14.6389 v -1.32258 h -14.58309 -0.24753 z m 26.099179,0 v 1.32258 h 15.42283 l 1.19528,1.31587 0.43873,-1.05136 -1.44229,-1.58709 h -0.18603 -0.0703 z" />
+    <path
+       id="rect201-7-7"
+       style="fill:#ffffff;stroke-width:0.145225"
+       d="m 76.664951,103.97214 v 0.17204 l -1.29243,1.42178 0.43874,1.05134 1.20147,-1.32257 h 14.6389 v -1.32259 h -14.58309 -0.24753 z m 26.099179,0 v 1.32259 h 15.42283 l 1.19528,1.31586 0.43873,-1.05135 -1.44229,-1.5871 h -0.18603 -0.0703 z" />
+    <path
+       id="rect201-0-2"
+       style="fill:#ffffff;stroke-width:0.216833"
+       d="m 128.15586,260.59137 -0.0295,0.047 H 95.884931 v 1.26989 H 128.3739 l 1.68827,1.25488 0.64905,-1.05134 -1.9792,-1.47136 v -0.002 h -0.003 l -0.0631,-0.047 z m -91.999029,0.047 v 0.008 l -1.97094,1.46515 0.64957,1.05134 1.68775,-1.25488 h 30.52217 v -1.26989 z" />
+    <text
+       x="38.18602"
+       y="114.53235"
+       class="fil1 fnt13"
+       id="text154-2"
+       style="font-weight:normal;font-size:4.71643px;font-family:Arial;clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.0380951;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="scale(1.0001279,0.99987211)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';stroke-width:0.0380951"
+         id="tspan1901-5">MODE</tspan></text>
+    <circle
+       class="fil0 str0"
+       cx="46.613998"
+       cy="147.47765"
+       id="circle72-4"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492" />
+    <circle
+       class="fil0 str0"
+       cx="46.613998"
+       cy="165.67764"
+       id="circle72-9"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492" />
+    <circle
+       class="fil0 str0"
+       cx="46.613998"
+       cy="184.87764"
+       id="circle72-91"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492" />
+    <circle
+       class="fil0 str0"
+       cx="46.613998"
+       cy="204.07764"
+       id="circle72-95"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-opacity:1"
+       id="path3076"
+       cx="-94.323959"
+       cy="205.84583"
+       rx="0.39687499"
+       ry="0.26458332" />
+    <circle
+       class="fil0 str0"
+       cx="-287.47769"
+       cy="37.077999"
+       id="circle72-2"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492"
+       transform="rotate(-90)" />
+    <circle
+       class="fil0 str0"
+       cx="-287.47769"
+       cy="58.377998"
+       id="circle72-4-4"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="rotate(-90)"
+       r="5.6879492" />
+    <circle
+       class="fil0 str0"
+       cx="-287.47787"
+       cy="79.678001"
+       id="circle72-9-5"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492"
+       transform="rotate(-90)" />
+    <circle
+       class="fil0 str0"
+       cx="-287.47769"
+       cy="100.978"
+       id="circle72-91-1"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492"
+       transform="rotate(-90)" />
+    <circle
+       class="fil0 str0"
+       cx="-287.47791"
+       cy="122.278"
+       id="circle72-95-6"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:#373435;stroke-width:0.124102;stroke-miterlimit:2.61313;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       r="5.6879492"
+       transform="rotate(-90)" />
+  </g>
+</svg>
