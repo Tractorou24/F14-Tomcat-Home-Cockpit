@@ -108,13 +108,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264192"
-       x="91.776329"
+       x="93.366188"
        y="43.778679"
        id="text2370-6-3"
        transform="scale(0.9985189,1.0014833)"><tspan
          sodipodi:role="line"
          id="tspan2368-09-8"
-         x="91.776329"
+         x="93.366188"
          y="43.778679"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264192">disconnect</tspan></text>
     <rect
@@ -138,27 +138,27 @@
          sodipodi:role="line">AIR SUPPLY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264192;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264192"
        x="56.773632"
-       y="88.171715"
+       y="90.40152"
        id="text2370-6-7"
-       transform="scale(0.99851891,1.0014833)"><tspan
+       transform="scale(0.9985189,1.0014833)"><tspan
          sodipodi:role="line"
          id="tspan2368-09-4"
          x="56.773632"
-         y="88.171715"
-         style="font-size:3.52777775px;fill:#ffffff;fill-opacity:1;stroke-width:0.264192;-inkscape-font-specification:'MS 33558, Normal';font-family:'MS 33558';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">connect</tspan></text>
+         y="90.40152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264192">connect</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264192"
        x="91.776329"
-       y="88.545448"
+       y="90.40152"
        id="text2370-6-3-3"
        transform="scale(0.9985189,1.0014833)"><tspan
          sodipodi:role="line"
          id="tspan2368-09-8-4"
          x="91.776329"
-         y="88.545448"
+         y="90.40152"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264192">disconnect</tspan></text>
     <text
        xml:space="preserve"
@@ -272,39 +272,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264192"
-       x="144.73807"
-       y="43.076237"
+       x="144.20811"
+       y="43.784992"
        id="text2370-6-3-7"
        transform="scale(0.9985189,1.0014833)"><tspan
          sodipodi:role="line"
          id="tspan2368-09-8-8"
-         x="144.73807"
-         y="43.076237"
+         x="144.20811"
+         y="43.784992"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264192">REARMING</tspan></text>
     <path
        style="fill:#ff0000;stroke:none;stroke-width:0.0503938"
        id="path3035-2-8"
        sodipodi:type="arc"
        sodipodi:cx="154.22501"
-       sodipodi:cy="55.298641"
+       sodipodi:cy="55.167999"
        sodipodi:rx="6"
        sodipodi:ry="6"
        sodipodi:start="0"
        sodipodi:end="6.1693026"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="m 160.22501,55.298641 a 6,6 0 0 1 -5.8292,5.997569 6,6 0 0 1 -6.16108,-5.656105 6,6 0 0 1 5.47843,-6.319591 6,6 0 0 1 6.47298,5.296307" />
+       d="m 160.22501,55.167999 a 6,6 0 0 1 -5.8292,5.997569 6,6 0 0 1 -6.16108,-5.656105 6,6 0 0 1 5.47843,-6.319591 6,6 0 0 1 6.47298,5.296307" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264192"
        x="138.74232"
-       y="92.020866"
+       y="90.407837"
        id="text2370-6-3-8"
        transform="scale(0.9985189,1.0014833)"><tspan
          sodipodi:role="line"
          id="tspan2368-09-8-2"
          x="138.74232"
-         y="92.020866"
+         y="90.407837"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264192">CAT SHOOTING</tspan></text>
     <path
        style="fill:#ff0000;stroke:none;stroke-width:0.0503938"
