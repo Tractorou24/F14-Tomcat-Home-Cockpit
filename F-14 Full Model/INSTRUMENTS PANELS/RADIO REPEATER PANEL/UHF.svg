@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1772"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="UHF.svg">
+  <defs
+     id="defs1766" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="250.43978"
+     inkscape:cy="425.37827"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1816"
+     inkscape:window-height="1208"
+     inkscape:window-x="32"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1769">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect833"
+       style="fill:#010101;fill-opacity:1;stroke-width:0.287742"
+       d="m 20.977754,103.75454 v 3.57084 h -0.02998 a 8.4288428,6.9665087 0 0 1 -0.01241,0.52193 8.4288428,6.9665087 0 0 1 -7.053315,6.47816 v 22.32525 a 8.4288428,6.9665087 0 0 1 7.053315,6.47816 8.4288428,6.9665087 0 0 1 0.01241,0.52193 h 0.02998 v 3.57084 H 122.64907 v -3.57084 h 0.03 a 8.4288428,6.9665087 0 0 1 0.0124,-0.52193 8.4288428,6.9665087 0 0 1 7.05745,-6.47868 v -22.32421 a 8.4288428,6.9665087 0 0 1 -7.05745,-6.47868 8.4288428,6.9665087 0 0 1 -0.0124,-0.52193 h -0.03 v -3.57084 z" />
+    <rect
+       style="fill:#e00606;fill-opacity:1;stroke-width:0.267449"
+       id="rect835"
+       width="60"
+       height="14"
+       x="41.703766"
+       y="109.9716" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="60.541855"
+       y="131.86728"
+       id="text2366-2"><tspan
+         sodipodi:role="line"
+         id="tspan2364-0"
+         x="60.541855"
+         y="131.86728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">VHF/UHF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="38.149246"
+       y="142.42209"
+       id="text2366-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan2364-0-6"
+         x="38.149246"
+         y="142.42209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">TEST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="93.340408"
+       y="142.42162"
+       id="text2366-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2364-0-60"
+         x="93.340408"
+         y="142.42162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">BRT</tspan><tspan
+         sodipodi:role="line"
+         x="93.340408"
+         y="155.65074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1648" /></text>
+  </g>
+</svg>

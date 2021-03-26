@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1019"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="VDI PANEL OLR.svg">
+  <defs
+     id="defs1013">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1660"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1635"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1612"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="423.28538"
+     inkscape:cy="553.79841"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2131"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1016">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1582"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.49246"
+       d="M 29.078125 336.38086 L 20.960938 351.41992 L 51.40625 610.49219 C 53.138882 619.86798 63.315287 627.65304 72.888672 627.38086 C 72.934245 627.38086 73.427113 627.40573 73.472656 627.4043 L 720.81836 627.4043 C 720.86409 627.40573 721.35676 627.38086 721.40234 627.38086 C 730.97571 627.65304 741.15215 619.86798 742.88477 610.49219 L 773.32422 351.47656 L 765.17578 336.38086 L 671.94141 336.38086 L 661.96484 352.61523 L 661.96484 523.07812 C 661.96114 523.33869 661.97801 523.59934 661.96289 523.85938 C 661.38084 534.0698 652.69364 542.28869 642.4707 541.99805 C 642.42512 541.99805 641.93207 542.02288 641.88672 542.02148 L 491.79102 542.02148 L 491.79102 579.91602 C 491.78735 580.17658 491.80418 580.43723 491.78906 580.69727 C 491.20698 590.90777 482.51985 599.12463 472.29688 598.83398 C 472.25129 598.83398 471.75862 598.85886 471.71289 598.85742 L 322.89453 598.85742 C 322.8488 598.8612 322.35609 598.83398 322.31055 598.83398 C 312.08757 599.12463 303.39848 590.90582 302.81641 580.69531 L 302.81641 542.02148 L 152.91016 542.02148 C 152.86462 542.02526 152.37175 541.99691 152.32617 541.99805 C 142.10321 542.28884 133.4141 534.07184 132.83203 523.86133 L 132.83203 352.27734 L 123.0625 336.38086 L 29.078125 336.38086 z "
+       transform="scale(0.26458333)" />
+    <circle
+       style="fill:#ff1c1c;fill-opacity:1;stroke-width:0.22583"
+       id="path1918"
+       sodipodi:type="arc"
+       sodipodi:cx="17.662199"
+       sodipodi:cy="100.34449"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       sodipodi:start="0"
+       sodipodi:end="6.1693026"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 22.662199,100.34449 a 5,5 0 0 1 -4.857666,4.99797 5,5 0 0 1 -5.13423,-4.71342 5,5 0 0 1 4.565355,-5.266323 5,5 0 0 1 5.394153,4.41359" />
+    <circle
+       style="fill:#ff1c1c;fill-opacity:1;stroke-width:0.22583"
+       id="path1918-6"
+       sodipodi:type="arc"
+       sodipodi:cx="21.057928"
+       sodipodi:cy="135.871"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       sodipodi:start="0"
+       sodipodi:end="6.1693026"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 26.057928,135.871 a 5,5 0 0 1 -4.857666,4.99798 5,5 0 0 1 -5.13423,-4.71342 5,5 0 0 1 4.565355,-5.26633 5,5 0 0 1 5.394153,4.41359" />
+    <circle
+       style="fill:#ff1c1c;fill-opacity:1;stroke-width:0.22583"
+       id="path1918-2"
+       sodipodi:type="arc"
+       sodipodi:cx="30.000944"
+       sodipodi:cy="154.88522"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       sodipodi:start="0"
+       sodipodi:end="6.1693026"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 35.000944,154.88522 a 5,5 0 0 1 -4.857666,4.99798 5,5 0 0 1 -5.13423,-4.71342 5,5 0 0 1 4.565355,-5.26633 5,5 0 0 1 5.394153,4.41359" />
+    <circle
+       style="fill:#ff1c1c;fill-opacity:1;stroke-width:0.22583"
+       id="path1918-65"
+       sodipodi:type="arc"
+       sodipodi:cx="189.23244"
+       sodipodi:cy="135.87097"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       sodipodi:start="0"
+       sodipodi:end="6.1693026"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 194.23244,135.87097 a 5,5 0 0 1 -4.85767,4.99798 5,5 0 0 1 -5.13423,-4.71343 5,5 0 0 1 4.56536,-5.26632 5,5 0 0 1 5.39415,4.41359" />
+    <circle
+       style="fill:#ff1c1c;fill-opacity:1;stroke-width:0.22583"
+       id="path1918-23"
+       sodipodi:type="arc"
+       sodipodi:cx="192.48438"
+       sodipodi:cy="100.344"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       sodipodi:start="0"
+       sodipodi:end="6.1693026"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 197.48437,100.344 a 5,5 0 0 1 -4.85766,4.99798 5,5 0 0 1 -5.13423,-4.71343 5,5 0 0 1 4.56535,-5.266321 5,5 0 0 1 5.39416,4.413589" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="27.077833"
+       y="136.89713"
+       id="text1980-3"><tspan
+         sodipodi:role="line"
+         id="tspan1978-1"
+         x="27.077833"
+         y="136.89713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">VDI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="27.077854"
+       y="142.25075"
+       id="text1980-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan1978-4-8"
+         x="27.077854"
+         y="142.25075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">BRT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="26.524517"
+       y="99.263321"
+       id="text1980-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan1978-1-8"
+         x="26.524517"
+         y="99.263321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">HUD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="26.524538"
+       y="104.61694"
+       id="text1980-9-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan1978-4-8-0"
+         x="26.524538"
+         y="104.61694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">BRT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="37.908428"
+       y="156.5276"
+       id="text1980-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan1978-1-80"
+         x="37.908428"
+         y="156.5276"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">VDI CONT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="38.7589"
+       y="160.27483"
+       id="text1980-9-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan1978-4-8-9"
+         x="38.7589"
+         y="160.27483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="176.02092"
+       y="136.89668"
+       id="text1980-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1978-1-5"
+         x="176.02092"
+         y="136.89668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">VDI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="176.02095"
+       y="142.25031"
+       id="text1980-9-4-76"><tspan
+         sodipodi:role="line"
+         id="tspan1978-4-8-4"
+         x="176.02095"
+         y="142.25031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">TRIM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="176.37318"
+       y="99.26326"
+       id="text1980-3-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan1978-1-8-7"
+         x="176.37318"
+         y="99.26326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">HUD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="176.37321"
+       y="104.61688"
+       id="text1980-9-4-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan1978-4-8-0-1"
+         x="176.37321"
+         y="104.61688"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">TRIM</tspan></text>
+  </g>
+</svg>
