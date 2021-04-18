@@ -1,0 +1,8 @@
+Motors tutorials :
+
+https://dronebotworkshop.com/analog-feedback-servo-motor/
+https://eskimon.fr/tuto-arduino-601-le-moteur-%C3%A0-courant-continu
+
+Possibles servos : 
+
+https://www.pololu.com/product/3443/specs
